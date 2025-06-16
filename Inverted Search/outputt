@@ -1,0 +1,106 @@
+#0
+word is [a] : file count is 3 : file name is file.txt : word count is 1
+file name is file2.txt : word count is 2
+file name is temp.txt : word count is 2
+word is [and] : file count is 1 : file name is file2.txt : word count is 3
+word is [amaze] : file count is 1 : file name is file2.txt : word count is 1
+word is [all] : file count is 2 : file name is file2.txt : word count is 1
+file name is temp.txt : word count is 2
+word is [about] : file count is 1 : file name is temp.txt : word count is 2
+#1
+word is [beautiful] : file count is 1 : file name is file2.txt : word count is 1
+word is [balance] : file count is 1 : file name is file2.txt : word count is 1
+#2
+word is [carving] : file count is 1 : file name is file2.txt : word count is 1
+word is [corner] : file count is 1 : file name is file2.txt : word count is 1
+word is [connected] : file count is 1 : file name is file2.txt : word count is 1
+#3
+word is [day] : file count is 1 : file name is file2.txt : word count is 1
+word is [delicate] : file count is 1 : file name is file2.txt : word count is 1
+word is [data] : file count is 1 : file name is temp.txt : word count is 2
+#4
+word is [each] : file count is 1 : file name is file2.txt : word count is 1
+word is [endlessly] : file count is 1 : file name is file2.txt : word count is 1
+word is [earth] : file count is 1 : file name is file2.txt : word count is 1
+word is [every] : file count is 1 : file name is file2.txt : word count is 1
+#5
+word is [fir] : file count is 1 : file name is file.txt : word count is 1
+word is [for] : file count is 3 : file name is file.txt : word count is 2
+file name is file2.txt : word count is 1
+file name is temp.txt : word count is 4
+word is [filled] : file count is 1 : file name is file2.txt : word count is 1
+word is [flow] : file count is 1 : file name is file2.txt : word count is 1
+word is [from] : file count is 1 : file name is file2.txt : word count is 1
+#7
+word is [hope] : file count is 1 : file name is file2.txt : word count is 1
+word is [heavens] : file count is 1 : file name is file2.txt : word count is 1
+#8
+word is [is] : file count is 1 : file name is file2.txt : word count is 1
+word is [inspire] : file count is 1 : file name is file2.txt : word count is 1
+word is [in] : file count is 1 : file name is file2.txt : word count is 2
+word is [insect] : file count is 1 : file name is file2.txt : word count is 1
+word is [its] : file count is 1 : file name is temp.txt : word count is 2
+#9
+word is [just] : file count is 2 : file name is file.txt : word count is 1
+file name is temp.txt : word count is 2
+#11
+word is [Life] : file count is 1 : file name is file2.txt : word count is 1
+#13
+word is [nothing] : file count is 1 : file name is file.txt : word count is 1
+word is [Nature] : file count is 1 : file name is file2.txt : word count is 1
+word is [not] : file count is 1 : file name is temp.txt : word count is 2
+#14
+word is [onlu] : file count is 1 : file name is file.txt : word count is 1
+word is [of] : file count is 1 : file name is file2.txt : word count is 1
+word is [our] : file count is 1 : file name is file2.txt : word count is 1
+#15
+word is [painting] : file count is 1 : file name is file2.txt : word count is 1
+word is [paths] : file count is 1 : file name is file2.txt : word count is 1
+#17
+word is [reference] : file count is 3 : file name is file.txt : word count is 3
+file name is file2.txt : word count is 1
+file name is temp.txt : word count is 2
+word is [rises] : file count is 1 : file name is file2.txt : word count is 1
+word is [renewal] : file count is 1 : file name is file2.txt : word count is 1
+word is [rivers] : file count is 1 : file name is file2.txt : word count is 1
+word is [reaching] : file count is 1 : file name is file2.txt : word count is 1
+#18
+word is [sun] : file count is 1 : file name is file2.txt : word count is 1
+word is [sky] : file count is 1 : file name is file2.txt : word count is 1
+word is [speak] : file count is 1 : file name is file2.txt : word count is 1
+word is [stand] : file count is 1 : file name is file2.txt : word count is 1
+word is [smallest] : file count is 1 : file name is file2.txt : word count is 1
+word is [sustains] : file count is 1 : file name is file2.txt : word count is 1
+#19
+word is [that] : file count is 2 : file name is file.txt : word count is 1
+file name is file2.txt : word count is 3
+word is [the] : file count is 2 : file name is file.txt : word count is 1
+file name is file2.txt : word count is 6
+word is [thing] : file count is 1 : file name is file.txt : word count is 1
+word is [tapestry] : file count is 1 : file name is file2.txt : word count is 1
+word is [The] : file count is 1 : file name is file2.txt : word count is 2
+word is [through] : file count is 1 : file name is file2.txt : word count is 1
+word is [trees] : file count is 1 : file name is file2.txt : word count is 1
+word is [tall] : file count is 1 : file name is file2.txt : word count is 1
+word is [thrives] : file count is 1 : file name is file2.txt : word count is 1
+word is [to] : file count is 1 : file name is file2.txt : word count is 1
+word is [temprary] : file count is 1 : file name is temp.txt : word count is 2
+#20
+word is [us] : file count is 1 : file name is file2.txt : word count is 1
+word is [use] : file count is 1 : file name is temp.txt : word count is 2
+#22
+word is [with] : file count is 1 : file name is file2.txt : word count is 2
+word is [wonders] : file count is 1 : file name is file2.txt : word count is 1
+word is [while] : file count is 1 : file name is file2.txt : word count is 1
+word is [whale] : file count is 1 : file name is file2.txt : word count is 1
+word is [world4] : file count is 1 : file name is file2.txt : word count is 1
+#24
+word is [Yuvraj] : file count is 1 : file name is file.txt : word count is 1
+#25
+word is [Zahir] : file count is 1 : file name is file.txt : word count is 1
+word is [Zaheer] : file count is 1 : file name is temp.txt : word count is 2
+#26
+word is [;0-] : file count is 1 : file name is file.txt : word count is 1
+word is [99abc] : file count is 1 : file name is file.txt : word count is 1
+word is [6668] : file count is 1 : file name is file2.txt : word count is 1
+word is [;ko] : file count is 1 : file name is file2.txt : word count is 1
